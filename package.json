@@ -1,0 +1,21 @@
+{
+  "name": "bashmate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "bashmate": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["cli", "bash", "groq", "ai", "bashmate"],
+  "author": "algobuddha || Subhajit B",
+  "license": "MIT",
+  "description": "Turn your natural language prompts to bash commands using bashmate",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "dotenv": "^16.5.0",
+    "groq-sdk": "^0.19.0"
+  }
+}
