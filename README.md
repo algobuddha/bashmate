@@ -36,4 +36,4 @@ npm link
 5. `GROQ_API_KEY =YOUR KEY`
 
 ## 💡 Example 
-<h3 align="center"><img src="bashmate.png" alt="logo" height="100%"></h3>
+<h3 align="center"><img src="bashmate.gif" alt="logo" height="100%"></h3>
